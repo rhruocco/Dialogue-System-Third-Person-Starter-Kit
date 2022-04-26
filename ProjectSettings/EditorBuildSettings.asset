@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestLevel.unity
     guid: 0c8ebc56da858d840923db7c7b564f5e
+  - enabled: 1
+    path: Assets/Scenes/SketchTown.unity
+    guid: 5685cbac12c74894fab9af6dbbefd962
   m_configObjects: {}
